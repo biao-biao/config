@@ -1,0 +1,11 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "workbench.colorTheme": "Solarized Dark",
+    "terminal.integrated.fontSize": 16,
+    "editor.fontSize": 16,
+    "window.zoomLevel": 0.8,
+    "files.autoSave": "onFocusChange",
+    "files.trimTrailingWhitespace": true,
+    "files.eol": "\n",
+    "files.encoding": "utf8"
+}
